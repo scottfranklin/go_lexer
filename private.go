@@ -2,7 +2,7 @@ package lexer
 
 import (
 	"bufio"
-	"github.com/iNamik/container.go/queue"
+	"github.com/iNamik/go_container/queue"
 	"io"
 	"unicode/utf8"
 )
